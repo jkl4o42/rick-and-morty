@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">rick-and-morty</string>
     <string name="search_by_name">Search by name</string>
+    <string name="last_location">Last known location:</string>
+    <string name="first_seen">First seen in:</string>
+    <string name="character_image_view">Character image view</string>
 </resources>
